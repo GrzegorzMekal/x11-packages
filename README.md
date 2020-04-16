@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/termux/x11-packages) 
+
 # Termux X11 Packages
 
 [![Packages last build status](https://github.com/termux/x11-packages/workflows/Packages/badge.svg)](https://github.com/termux/x11-packages/actions)
